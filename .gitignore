@@ -377,4 +377,3 @@ logs
 bin/
 .vscode/
 vapp/src/contracts
-contracts
