@@ -8,7 +8,7 @@
     </div>
 
     <div class="section">
-      <h2>Simple Storage</h2>
+      <h2>Simple Storage Vue Dapp</h2>
       <drizzle-contract 
          contractName="SimpleStorage"
          method="storedData"
